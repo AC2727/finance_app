@@ -1,3 +1,18 @@
+
+# Python
+_pycache_/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Database
+*.db
+
+# VS Code
+.vscode/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
